@@ -8,16 +8,16 @@ I plan to maintain this file throughout 20-19. I'm making it public for accounta
 
 ### Goals
 
-01. Lose 3 stone (42lb) and maintain.
-02. Run a 10K race.
-03. No phone an hour before sleep/bed.
-04. Cook (then use leftovers for additional meals/lunches).
-05. See my friend Kev every quarter (at minimum).
-06. Create my first typeface and release it.
-07. Speak at a conference.
-08. Write an article for AListApart.
-09. Write an article for CSS Tricks.
-10. Blog at least once a month.
+- [ ] 01. Lose 3 stone (42lb) and maintain.
+- [ ] 02. Run a 10K race.
+- [ ] 03. No phone an hour before sleep/bed.
+- [ ] 04. Cook (then use leftovers for additional meals/lunches).
+- [ ] 05. See my friend Kev every quarter (at minimum).
+- [ ] 06. Create my first typeface and release it.
+- [ ] 07. Speak at a conference.
+- [ ] 08. Write an article for AListApart.
+- [ ] 09. Write an article for CSS Tricks.
+- [ ] 10. Blog at least once a month.
 
 I'm leaving Well Digital in Jan 2019 for a fresh challenge. Can't wait to get started! 
 
